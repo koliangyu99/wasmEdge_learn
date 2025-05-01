@@ -1,4 +1,4 @@
-# WasmEdge Learn: QuickJS + Rust WebAssembly Experiments
+# WasmEdge Learn: QuickJS + Rust WebAssembly Experiments 
 
 This repository explores using [WasmEdge](https://wasmedge.org/) to run WebAssembly modules built from both JavaScript (QuickJS) and Rust. It includes:
 
